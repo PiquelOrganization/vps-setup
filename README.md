@@ -1,6 +1,10 @@
 # Deployment
 Deploy VPS solution
 
+> [!TIP]
+> The issues of this repository are issues for the overall infrastructure of
+> piquel.fr.
+
 ## Setup
 
 ### Log in as `ubuntu` user
